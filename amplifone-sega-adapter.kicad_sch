@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ccee1985-eeba-4cda-9190-f5323ae79654")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 120.015 66.675)
+		(size 66.675 65.405)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27f55845-fff7-4302-a59f-1021602aa815")
+		(property "Sheetname" "simulation"
+			(at 120.015 65.9634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "simulation.kicad_sch"
+			(at 120.015 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "amplifone-sega-adapter"
+				(path "/ccee1985-eeba-4cda-9190-f5323ae79654"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 67.31)
+		(size 82.55 66.04)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7083b559-78e5-4602-9c81-54905dbbac60")
+		(property "Sheetname" "amplifiers"
+			(at 21.59 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amplifone-sega-adapter-amps.kicad_sch"
+			(at 21.59 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "amplifone-sega-adapter"
+				(path "/ccee1985-eeba-4cda-9190-f5323ae79654"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
