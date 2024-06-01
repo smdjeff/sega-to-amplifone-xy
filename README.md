@@ -7,6 +7,7 @@ Sega G80 vector to Atari Amplifone adapter
 * High quality TLE2082CP can be used to double bandwidth and slew vs older TL082 op-amps.
 * Doubles voltage for X & Y to reduce stress on Sega XY game board amplifiers 
 * Corrects black level and scale for RGB color signals
+* Simulated Sega G08 vector impedance for Sega XY board
 
 |     | Sega  | Atari |
 | --- | ----- | ----- |
