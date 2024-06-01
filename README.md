@@ -16,7 +16,8 @@ Sega G80 vector to Atari Amplifone adapter
 | G   | 0-4v  | 1.0-3.5v |
 | B   | 0-4v  | 1.0-3.5v |
 
-![Image](docs/image0.png)
-![Image](docs/image1.png)
-![Image](docs/image2.png)
+![Image](docs/image0.jpg)
+![Image](docs/image1.jpg)
+![Image](docs/image2.jpg)
+![Image](docs/image3.jpg)
 
