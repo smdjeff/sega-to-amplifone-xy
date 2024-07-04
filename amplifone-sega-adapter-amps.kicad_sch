@@ -4943,7 +4943,7 @@
 		(uuid "cf0d4a19-9ac2-453b-9f08-9172631362ae")
 	)
 	(label "R_OUT"
-		(at 266.7 190.5 0)
+		(at 271.78 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4954,7 +4954,7 @@
 		(uuid "00682cb8-b264-4827-9ff6-3d22af490a84")
 	)
 	(label "G_OUT"
-		(at 266.7 195.58 0)
+		(at 271.78 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4965,7 +4965,7 @@
 		(uuid "00731eb3-9f0f-46ca-807d-50d85e9395bf")
 	)
 	(label "G_IN"
-		(at 266.7 172.72 0)
+		(at 271.78 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4998,7 +4998,7 @@
 		(uuid "34413204-5309-45b2-a50e-bc4f2dcd48c4")
 	)
 	(label "Y_OUT"
-		(at 243.84 198.12 0)
+		(at 248.92 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5053,7 +5053,7 @@
 		(uuid "7db8ded5-d8e2-4c6e-bfc2-7c0e9028a777")
 	)
 	(label "B_OUT"
-		(at 266.7 198.12 0)
+		(at 271.78 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5075,7 +5075,7 @@
 		(uuid "c7b24e10-b154-4f1d-a87f-9fe495ac103c")
 	)
 	(label "X_IN"
-		(at 243.84 167.64 0)
+		(at 248.92 146.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5097,7 +5097,7 @@
 		(uuid "ce6dfc61-2b18-461f-bd2f-75360466100b")
 	)
 	(label "B_IN"
-		(at 266.7 175.26 0)
+		(at 271.78 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5130,7 +5130,7 @@
 		(uuid "df92431a-679b-4c7d-b996-c9e290027591")
 	)
 	(label "X_OUT"
-		(at 243.84 190.5 0)
+		(at 248.92 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5141,7 +5141,7 @@
 		(uuid "e487cccf-5b96-42cd-a982-e33c2fde9fab")
 	)
 	(label "Y_IN"
-		(at 243.84 175.26 0)
+		(at 248.92 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5152,7 +5152,7 @@
 		(uuid "f40cf561-1e20-4933-a071-ca82aed7b2f7")
 	)
 	(label "R_IN"
-		(at 266.7 167.64 0)
+		(at 271.78 146.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5166,7 +5166,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 124.46 104.14 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5301,16 +5301,16 @@
 	)
 	(symbol
 		(lib_id "digikey-640385-4:640385-4")
-		(at 256.54 172.72 0)
+		(at 261.62 151.13 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "08dfdf94-f17b-4d63-8c0c-ef6008492aba")
 		(property "Reference" "J2"
-			(at 257.556 162.306 0)
+			(at 262.636 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5319,7 +5319,7 @@
 			)
 		)
 		(property "Value" "640385-4"
-			(at 261.62 163.83 0)
+			(at 266.7 142.24 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5328,7 +5328,7 @@
 			)
 		)
 		(property "Footprint" "digikey-640385-4:TE_640385-4"
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5338,7 +5338,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5347,7 +5347,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,7 +5356,7 @@
 			)
 		)
 		(property "PARTREV" "R"
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5366,7 +5366,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5376,7 +5376,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE"
-			(at 256.54 172.72 0)
+			(at 261.62 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5690,7 +5690,7 @@
 		(lib_id "Device:L")
 		(at 83.82 144.78 90)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5756,16 +5756,16 @@
 	)
 	(symbol
 		(lib_id "digikey-640385-4:640385-4")
-		(at 233.68 172.72 0)
+		(at 238.76 151.13 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0e907d6a-9207-4646-ae20-7002d8138081")
 		(property "Reference" "J1"
-			(at 234.696 162.306 0)
+			(at 239.776 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5774,7 +5774,7 @@
 			)
 		)
 		(property "Value" "640385-4"
-			(at 238.76 163.83 0)
+			(at 243.84 142.24 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5783,7 +5783,7 @@
 			)
 		)
 		(property "Footprint" "digikey-640385-4:TE_640385-4"
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5793,7 +5793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5802,7 +5802,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5811,7 +5811,7 @@
 			)
 		)
 		(property "PARTREV" "R"
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5821,7 +5821,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5831,7 +5831,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE"
-			(at 233.68 172.72 0)
+			(at 238.76 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5985,16 +5985,16 @@
 	)
 	(symbol
 		(lib_id "digikey-640385-4:640385-4")
-		(at 256.54 195.58 0)
+		(at 261.62 115.57 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "1225ff2c-5b81-401d-a45c-3ce55d8af8bb")
 		(property "Reference" "J4"
-			(at 257.556 185.166 0)
+			(at 262.636 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6003,7 +6003,7 @@
 			)
 		)
 		(property "Value" "640385-4"
-			(at 261.62 186.69 0)
+			(at 266.7 106.68 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6012,7 +6012,7 @@
 			)
 		)
 		(property "Footprint" "digikey-640385-4:TE_640385-4"
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6022,7 +6022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,7 +6031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6040,7 +6040,7 @@
 			)
 		)
 		(property "PARTREV" "R"
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6050,7 +6050,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6060,7 +6060,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE"
-			(at 256.54 195.58 0)
+			(at 261.62 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6160,7 +6160,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 195.58 90)
+		(at 248.92 115.57 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -6169,7 +6169,7 @@
 		(fields_autoplaced yes)
 		(uuid "133b8705-1898-4836-9099-354ffb4174f6")
 		(property "Reference" "#PWR080"
-			(at 250.19 195.58 0)
+			(at 255.27 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6178,7 +6178,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 195.5799 90)
+			(at 252.73 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6188,7 +6188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 195.58 0)
+			(at 248.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6197,7 +6197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 195.58 0)
+			(at 248.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6206,7 +6206,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 195.58 0)
+			(at 248.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7547,7 +7547,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 264.16 69.85 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -7887,7 +7887,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 170.18 146.05 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8020,7 +8020,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 166.37 35.56 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8289,7 +8289,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 218.44 146.05 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8764,7 +8764,7 @@
 		(lib_id "digikey-RD-0512D:RD-0512D")
 		(at 102.87 149.86 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8878,16 +8878,16 @@
 	)
 	(symbol
 		(lib_id "digikey-640385-4:640385-4")
-		(at 233.68 195.58 0)
+		(at 238.76 115.57 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "47e4fb24-abdb-44a3-8beb-ef339b9a6173")
 		(property "Reference" "J3"
-			(at 234.696 185.166 0)
+			(at 239.776 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8896,7 +8896,7 @@
 			)
 		)
 		(property "Value" "640385-4"
-			(at 238.76 186.69 0)
+			(at 243.84 106.68 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8905,7 +8905,7 @@
 			)
 		)
 		(property "Footprint" "digikey-640385-4:TE_640385-4"
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8915,7 +8915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8924,7 +8924,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8933,7 +8933,7 @@
 			)
 		)
 		(property "PARTREV" "R"
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8943,7 +8943,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8953,7 +8953,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE"
-			(at 233.68 195.58 0)
+			(at 238.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8985,7 +8985,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 170.18 90)
+		(at 248.92 148.59 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -8994,7 +8994,7 @@
 		(fields_autoplaced yes)
 		(uuid "4845c72d-6d3b-4eef-b87a-5e0627d9786f")
 		(property "Reference" "#PWR082"
-			(at 250.19 170.18 0)
+			(at 255.27 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9003,7 +9003,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 170.1799 90)
+			(at 252.73 148.5899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9013,7 +9013,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 170.18 0)
+			(at 248.92 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9022,7 +9022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 170.18 0)
+			(at 248.92 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9031,7 +9031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 170.18 0)
+			(at 248.92 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9055,7 +9055,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 171.45 123.19 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9937,7 +9937,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 29.21 36.83 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -10688,7 +10688,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 124.46 31.75 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -10962,7 +10962,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 193.04 90)
+		(at 248.92 113.03 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -10971,7 +10971,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e1ae9e2-f04d-4f00-99c9-599d20b4ee05")
 		(property "Reference" "#PWR081"
-			(at 250.19 193.04 0)
+			(at 255.27 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,7 +10980,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 193.0399 90)
+			(at 252.73 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10990,7 +10990,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 193.04 0)
+			(at 248.92 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10999,7 +10999,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 193.04 0)
+			(at 248.92 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11008,7 +11008,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 193.04 0)
+			(at 248.92 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11235,7 +11235,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 29.21 73.66 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -11563,7 +11563,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 264.16 30.48 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -12516,7 +12516,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 247.65 125.73 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -12791,7 +12791,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 29.21 109.22 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -13066,7 +13066,7 @@
 		(lib_id "power:+5V")
 		(at 78.74 139.7 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -13734,7 +13734,7 @@
 		(lib_id "power:+5V")
 		(at 161.29 175.26 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -13925,7 +13925,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 124.46 68.58 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -14525,7 +14525,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 172.72 90)
+		(at 248.92 151.13 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -14534,7 +14534,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4b58d04-fbb5-45a0-85af-07848b89cf19")
 		(property "Reference" "#PWR083"
-			(at 250.19 172.72 0)
+			(at 255.27 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14543,7 +14543,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 172.7199 90)
+			(at 252.73 151.1299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14553,7 +14553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 172.72 0)
+			(at 248.92 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14562,7 +14562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 172.72 0)
+			(at 248.92 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14571,7 +14571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 172.72 0)
+			(at 248.92 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14991,7 +14991,7 @@
 		(lib_id "Connector:TestPoint")
 		(at 166.37 74.93 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -16790,7 +16790,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 193.04 90)
+		(at 271.78 113.03 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -16799,7 +16799,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee5aa69b-1878-4256-a216-a57562101779")
 		(property "Reference" "#PWR079"
-			(at 273.05 193.04 0)
+			(at 278.13 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16808,7 +16808,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 270.51 193.0399 90)
+			(at 275.59 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16818,7 +16818,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 193.04 0)
+			(at 271.78 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16827,7 +16827,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 193.04 0)
+			(at 271.78 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16836,7 +16836,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 193.04 0)
+			(at 271.78 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16995,7 +16995,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 170.18 90)
+		(at 271.78 148.59 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -17004,7 +17004,7 @@
 		(fields_autoplaced yes)
 		(uuid "f61f99c8-3b60-45f1-a3e1-63d112edcbbf")
 		(property "Reference" "#PWR084"
-			(at 273.05 170.18 0)
+			(at 278.13 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17013,7 +17013,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 270.51 170.1799 90)
+			(at 275.59 148.5899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17023,7 +17023,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 170.18 0)
+			(at 271.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17032,7 +17032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 170.18 0)
+			(at 271.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17041,7 +17041,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 170.18 0)
+			(at 271.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
